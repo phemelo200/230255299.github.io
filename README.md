@@ -42,4 +42,4 @@ I am a Motivated and resilient ICT final year student specializing in Applicatio
 *   **Lecturer:** Mrs Boko Mihlali | 021 864 7132
 
 ### 🎥 Mock Interview
-[Watch my mock interview video here](./interview.mp4)
+[Watch my mock interview video here](./nterview.mp4)
