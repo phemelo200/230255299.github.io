@@ -43,3 +43,49 @@ I am a Motivated and resilient ICT final year student specializing in Applicatio
 
 ### 🎥 Mock Interview
 [Watch my mock interview video here](./interview_vid.mp4)
+
+##  Reflection on Coding in Markdown (CV)
+
+###  Situation
+I was required to create a digital portfolio using GitHub, where I had to code my CV using Markdown. This was my first time using Markdown to structure a professional document.
+
+###  Task
+My task was to convert my CV into a well-structured and professional format using Markdown, ensuring that it is easy to read and visually appealing.
+
+###  Action
+I learned how to use Markdown syntax such as headings, bullet points, bold text, and links to organize my CV. I structured the document into sections like Profile, Skills, and Contact Information. I also added links to my LinkedIn and GitHub profiles. I used the preview feature to check formatting and made corrections where necessary.
+
+###  Result
+I successfully created a clean and professional CV using Markdown. This improved my ability to present information clearly and helped me understand how developers document their work. I also gained confidence in using Markdown for future projects.
+
+---
+
+##  Reflection on Mock Interview Video
+
+###  Situation
+As part of my portfolio, I was required to record and include a mock interview video to demonstrate my communication and interview skills.
+
+###  Task
+My task was to prepare for the interview, record a professional video, and upload it to my GitHub portfolio.
+
+###  Action
+I prepared answers to common interview questions and practiced my responses. I recorded multiple takes to improve my confidence, tone, and body language. After selecting the best version, I uploaded the video and embedded it into my portfolio using Markdown.
+
+###  Result
+I successfully created and embedded my mock interview video. This experience improved my confidence and communication skills. It also helped me understand how to present myself professionally and how to include multimedia content in a portfolio.
+
+---
+
+##  Reflection on Using GitHub Pages
+
+###  Situation
+I was required to publish my portfolio online using GitHub Pages so that it could be accessed publicly.
+
+###  Task
+My task was to deploy my repository as a live website and ensure that all the content displayed correctly.
+
+###  Action
+I configured GitHub Pages through the repository settings and selected the main branch as the source. I ensured that my README file was properly structured. I tested the live website and made adjustments to fix formatting issues.
+
+###  Result
+I successfully published my portfolio online and made it accessible through a link. This helped me understand how to deploy a website and improved my technical skills. I can now confidently use GitHub Pages to showcase my work professionally.
