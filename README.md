@@ -39,7 +39,7 @@ I am a Motivated and resilient ICT final year student specializing in Applicatio
 
 ## 📞 References
 *   **Teacher:** Mr Sephiri Ofentse | 078 149 3995
-*   **Lecturer:** Mrs Boko Mihlali | 021 864 7132
+*   **Tutor:** Mrs Boko Mihlali | 021 864 7132
 
 ### 🎥 Mock Interview
 [Watch my mock interview video here](./interview_vid.mp4)
