@@ -126,6 +126,8 @@ During my placement I have been exposed to hardware troubleshooting, computer re
 
 JUST PCs collects used computer equipment from businesses, refurbishes it and prepares it for resale or reuse. The equipment includes desktop computers, laptops, monitors, keyboards, mice, servers, switches, phones and other IT equipment.
 
+**My role.** As an intern, my role was to learn every part of the company's work. This means I was not limited to one job. I was assigned to whatever needed doing: when equipment needed to be tested and graded, I did it; when PCs and laptops needed to be refurbished, I did it; when quality control was needed, I did it; when an order needed to be picked and packed, or a customer needed help, I did that too. Every task in this portfolio is work I carried out myself.
+
 My responsibilities involve making sure equipment is cleaned, tested, correctly graded and prepared to the required specifications before it is supplied to customers. Equipment is sold by condition grade:
 
 | Grade | Condition |
@@ -142,9 +144,9 @@ This portfolio is organised into five areas, each with **Evidence** and a **Refl
 
 <table>
   <tr>
-    <td align="center"><img src="images/refurbishing-pc-workstation.jpeg" width="260"><br><sub>Refurbishing a desktop PC at my workstation</sub></td>
-    <td align="center"><img src="images/pc-internals.jpeg" width="260"><br><sub>Inside a desktop PC during troubleshooting</sub></td>
-    <td align="center"><img src="images/ram-check-winpe.jpeg" width="260"><br><sub>Checking RAM against the order specification</sub></td>
+    <td align="center"><img src="evidence/231.jpeg" width="260"><br><sub>Refurbishing a desktop PC at my workstation</sub></td>
+    <td align="center"><img src="evidence/WhatsApp%20Image%202026-10-29%20at%2018.41.04.jpeg" width="260"><br><sub>Inside a desktop PC during troubleshooting</sub></td>
+    <td align="center"><img src="evidence/WhatsAp4.jpeg" width="260"><br><sub>Checking RAM against the order specification</sub></td>
   </tr>
 </table>
 
@@ -156,7 +158,7 @@ This portfolio is organised into five areas, each with **Evidence** and a **Refl
 
 This charter describes the shared goals, responsibilities, values and working agreements that support the completion of IT refurbishment and customer orders at JUST PCs.
 
-My workplace follows its own operational procedures. I have used the Agile team charter concept to organise and reflect on how team members work together, communicate clearly and deliver quality results.
+My workplace follows its own operational procedures. I have used the Agile team charter concept to organise and reflect on how the team works together, communicates clearly and delivers quality results.
 
 ## 2.2 Team purpose
 
@@ -164,27 +166,39 @@ The team refurbishes, tests and prepares IT equipment so that it meets the requi
 
 The team ensures that equipment is functional, correctly graded, properly prepared and aligned with customer specifications. This needs cooperation between the people responsible for refurbishment, technical testing, quality control, customer service and order preparation.
 
-## 2.3 Team roles and responsibilities
+## 2.3 Roles and responsibilities
+
+As an intern, my role was to learn everything in the company. Because of this, I was assigned to every role in the workflow and carried out the work myself. I did not only watch other people do it.
+
+| Role | What I did |
+|---|---|
+| Peripherals tester and grader | Tested keyboards (every key), mice (every button) and monitors (scratches, dead pixels, cloudy spots), cleaned them and assigned grade A, B or C. |
+| Order picker and packer | Found the correct grade on the shelf and packed it with the required cables for customer orders. |
+| IT refurbisher / technician | Cleaned, blew out dust, replaced thermal paste and CMOS batteries, checked the power supply, RAM and drive health, ran burn-in tests, troubleshot faults and refurbished PCs and laptops. |
+| Imaging technician | Created Windows images from scratch, copied them to USB and deployed them to PCs. |
+| Quality control (QC) | Carried out QC checks of ports, drive health, image, applications, updates and activation. |
+| Customer service support | Worked with customer services and clients to understand their specifications and make sure the order met them. |
+| Intern (learner) | Followed procedures, completed the company courses, wrote weekly reports and asked for guidance when needed. |
+
+Other people in the team:
 
 | Role | Responsibilities |
 |---|---|
-| Manager | Oversees operations and receives required reports. |
-| Mentor | Assigns daily tasks, provides guidance and supports my learning. |
-| IT refurbisher / technician | Cleans, troubleshoots, repairs, tests and prepares equipment. |
-| Quality control technician | Independently checks refurbished equipment and verifies that requirements have been met. |
-| Customer service staff | Communicate with customers and clarify their equipment requirements. |
-| Intern | Completes assigned tasks, follows procedures, documents learning and asks for guidance when necessary. |
+| Manager | Oversees operations and receives my weekly reports. |
+| Mentor | Assigns my daily tasks, provides guidance and supports my learning. |
 
-These roles describe the responsibilities relevant to my experience. They do not necessarily represent the company's complete organisational structure.
+The quality control rule: a person never QCs their own work. A device I refurbished was checked by someone else, and when I did QC, I checked devices that someone else had refurbished.
+
+These roles describe my experience. They do not necessarily show the company's full organisational structure.
 
 ## 2.4 Core values
 
 - **Quality:** Every device must be tested properly before it is handed over to a customer.
-- **Teamwork:** Employees cooperate and communicate so that refurbishment and order preparation are completed correctly.
+- **Teamwork:** Everyone cooperates and communicates so that refurbishment and order preparation are completed correctly.
 - **Accountability:** Each person takes responsibility for their assigned tasks and reports any problems.
 - **Customer satisfaction:** Equipment must meet the customer's specifications and requirements.
 - **Data security:** Confidential information must be protected when handling, refurbishing or retiring IT equipment.
-- **Continuous learning:** Employees and interns are willing to learn new procedures, accept feedback and improve their technical skills.
+- **Continuous learning:** I am willing to learn new procedures, accept feedback and improve my technical skills.
 
 ## 2.5 Working agreements
 
@@ -193,15 +207,16 @@ These roles describe the responsibilities relevant to my experience. They do not
 3. Communicate clearly when equipment has a fault or does not meet the required specifications.
 4. Check that all required accessories, including cables, are included with an order.
 5. Complete assigned work carefully and within the required time.
-6. Make sure equipment is ready for independent quality control after refurbishment.
+6. Never QC your own work. A different person checks it before release.
 7. Protect customer information and follow the applicable data-handling procedures.
 8. Submit weekly learning reports as required.
 9. Treat customers and colleagues with patience and respect.
 10. Never assume that equipment works without testing it.
+11. Take on any task that is assigned, because the internship is about learning every part of the work.
 
 ## 2.6 Communication
 
-I receive daily tasks from my mentor and document my learning in weekly reports submitted to my manager. Communication is also important when working with customers, colleagues and the person responsible for quality control.
+I receive daily tasks from my mentor and document my learning in weekly reports submitted to my manager. Communication is also important when working with customers, customer services and the person doing quality control.
 
 If a customer needs equipment urgently, I communicate professionally while making sure the necessary technical checks are still completed.
 
@@ -210,25 +225,25 @@ If a customer needs equipment urgently, I communicate professionally while makin
 **Evidence 2.1: Working at my refurbishment workstation.** My workstation is set up for opening cases, removing components and testing equipment, in line with the working agreements above (follow the correct procedure, test before handover).
 
 <p align="center">
-  <img src="images/refurbishing-pc-workstation.jpeg" width="380"><br>
+  <img src="evidence/231.jpeg" width="380"><br>
   <sub><b>Figure 1.</b> Working on a desktop PC with the case open, storage drives and tools on the bench.</sub>
 </p>
 
-**Evidence 2.2: Team workflow.** Refurbishment is followed by an independent quality check by a different person.
+**Evidence 2.2: Workflow I worked in.** I worked in every stage of this workflow. The QC stage is always done by a different person from the one who refurbished the device.
 
 ```
-Collected equipment → Refurbisher (me) → Independent QC technician → Customer services / order prep → Customer
+Collected equipment → Test and refurbish → QC (a different person) → Order preparation → Customer
 ```
 
 ## 2.8 Reflection on the Agile Team Charter
 
 Creating this charter helped me understand that successful IT support depends on more than technical knowledge. It also requires teamwork, clear communication, accountability and shared responsibility for quality.
 
-My experience at JUST PCs has shown me that refurbishment involves several connected responsibilities. I may complete the technical work on a computer, but another technician must perform the independent quality check before the process is complete.
+At JUST PCs I was not limited to one role. As an intern, my job was to learn the whole process, so I tested and graded equipment, refurbished PCs and laptops, built Windows images, did quality control, packed orders and worked with customers. Doing every role myself taught me how each stage depends on the others. If I rush the refurbishment, the QC stage finds the problem, and if the specifications are not confirmed with the customer, the whole build can be wrong.
+
+The QC rule also taught me accountability. I cannot approve my own work, so I learned to be careful in my own checks and to trust a colleague's review of my work. When I did QC on someone else's device, I learned to check every detail, because the customer relies on that check.
 
 I have also learned that communication matters when customers are frustrated or need equipment urgently. Staying calm and explaining the situation professionally helps me focus on finding a solution without compromising the quality of my work.
-
-This charter helped me recognise the importance of understanding my role, following workplace procedures and working with others towards a common goal.
 
 ---
 
@@ -238,7 +253,7 @@ This charter helped me recognise the importance of understanding my role, follow
 
 User stories describe a requirement from the perspective of the person who needs a service or product. They explain why a task is important and what outcome is expected.
 
-During my placement I learned that customers have different requirements when buying refurbished equipment. Some need specific computer specifications, while others need working monitors, keyboards, mice and the correct cables. The stories below turn these workplace requirements into an assessment artefact.
+During my placement I learned that customers have different requirements when buying refurbished equipment. Some need specific computer specifications, while others need working monitors, keyboards, mice and the correct cables. The stories below turn these workplace requirements into an assessment artefact. I carried out the tasks in every story myself.
 
 ## 3.2 User Story 1: Refurbished computer
 
@@ -256,7 +271,7 @@ During my placement I learned that customers have different requirements when bu
 - [x] Install Windows using the required imaging process.
 - [x] Install the required applications and check updates.
 - [x] Run the burn-in (stress) tests on the RAM and drives.
-- [x] Record the equipment grade and prepare the computer for independent quality control.
+- [x] Record the equipment grade and prepare the computer for quality control.
 
 **Acceptance criteria**
 
@@ -265,14 +280,14 @@ During my placement I learned that customers have different requirements when bu
 - The storage drive meets the workplace's required health threshold.
 - The required operating system and applications are installed.
 - Required tests are completed and any faults are addressed.
-- The computer is ready for independent quality control.
+- The computer is ready for quality control.
 
 **Evidence**
 
 <table>
   <tr>
-    <td align="center"><img src="images/pc-internals.jpeg" width="300"><br><sub><b>Figure 2.</b> Inside a desktop PC: motherboard, CPU cooler, RAM slots, SATA and power cabling and the CMOS battery.</sub></td>
-    <td align="center"><img src="images/ram-check-winpe.jpeg" width="300"><br><sub><b>Figure 3.</b> Checking RAM modules against the order while the PC is booted from a diagnostic USB.</sub></td>
+    <td align="center"><img src="evidence/WhatsApp%20Image%202026-10-29%20at%2018.41.04.jpeg" width="300"><br><sub><b>Figure 2.</b> Inside a desktop PC: motherboard, CPU cooler, RAM slots, SATA and power cabling and the CMOS battery.</sub></td>
+    <td align="center"><img src="evidence/WhatsAp4.jpeg" width="300"><br><sub><b>Figure 3.</b> Checking RAM modules against the order while the PC is booted from a diagnostic USB.</sub></td>
   </tr>
 </table>
 
@@ -322,25 +337,25 @@ During my placement I learned that customers have different requirements when bu
 **Evidence**
 
 <p align="center">
-  <img src="images/windows-image-check.jpeg" width="380"><br>
+  <img src="evidence/342.jpeg" width="380"><br>
   <sub><b>Figure 4.</b> Checking a PC after it has booted into Windows with the company's image.</sub>
 </p>
 
-## 3.5 User Story 4: Independent quality control
+## 3.5 User Story 4: Quality control
 
-**User story:** As a customer, I want refurbished equipment to undergo an independent quality check so that I can have confidence that it meets the required standards.
+**User story:** As a customer, I want refurbished equipment to be checked by someone other than the person who refurbished it so that I can have confidence that it meets the required standards.
 
 **Tasks**
 
-- [x] Complete the refurbishment process.
-- [x] Communicate the work completed.
-- [x] Pass the device to the designated quality control technician.
-- [x] QC technician checks the ports, drive health, operating system, applications, updates and activation.
+- [x] Complete the refurbishment and hand the device to a different person for QC.
+- [x] When doing QC myself, check a device that someone else refurbished.
+- [x] Check all ports, drive health, the Windows image, applications, updates and activation.
 - [x] Address any faults or incomplete requirements found during QC.
+- [x] Pass the device, or return it with notes.
 
 **Acceptance criteria**
 
-- The independent quality check is completed by someone other than the refurbisher.
+- QC is completed by someone other than the refurbisher.
 - Required functions and components are checked.
 - Outstanding issues are fixed before the equipment is released.
 
@@ -368,9 +383,9 @@ During my placement I learned that customers have different requirements when bu
 
 <table>
   <tr>
-    <td align="center"><img src="images/tools-1.jpeg" width="260"><br><sub><b>Figure 5.</b> Screwdrivers I use to open cases and remove components.</sub></td>
-    <td align="center"><img src="images/tools-2.jpeg" width="260"><br><sub><b>Figure 6.</b> The same tools, used alongside a PC with the case open.</sub></td>
-    <td align="center"><img src="images/handling-storage-drives.jpeg" width="260"><br><sub><b>Figure 7.</b> Handling storage drives in the preparation area.</sub></td>
+    <td align="center"><img src="evidence/WhatsApp%20Image%202.jpeg" width="260"><br><sub><b>Figure 5.</b> Screwdrivers I use to open cases and remove components.</sub></td>
+    <td align="center"><img src="evidence/WhatsApp%20Image%20202.jpeg" width="260"><br><sub><b>Figure 6.</b> The same tools, used alongside a PC with the case open.</sub></td>
+    <td align="center"><img src="evidence/456.jpeg" width="260"><br><sub><b>Figure 7.</b> Handling storage drives in the preparation area.</sub></td>
   </tr>
 </table>
 
@@ -378,7 +393,7 @@ During my placement I learned that customers have different requirements when bu
 
 Creating these user stories helped me understand how technical tasks connect to customer needs. Testing a monitor, for example, is not just a technical activity. It makes sure the customer receives equipment that works as expected.
 
-I have also learned that customer requirements must be understood before equipment is prepared. A computer can be in good physical condition but still fail to meet the customer's requested specifications.
+Because I did every task in these stories myself, I could see how the stages connect. A computer can be in good physical condition but still fail to meet the customer's requested specifications, so customer requirements must be understood before equipment is prepared.
 
 Another important lesson is that working quickly should not mean skipping checks. When customers are waiting, I need to manage my time carefully while making sure every required component is tested.
 
@@ -392,7 +407,7 @@ These stories helped me organise my experience into clear requirements, tasks an
 
 A product backlog is a prioritised list of work that needs to be completed to achieve a product or service goal.
 
-I have created a representative backlog based on the refurbishment and preparation of IT equipment at JUST PCs. The priorities are proposed for this assessment and are not the company's official internal backlog.
+I have created a representative backlog based on the refurbishment and preparation of IT equipment at JUST PCs. The priorities are proposed for this assessment and are not the company's official internal backlog. As an intern I worked on every item on this list.
 
 ## 4.2 Product backlog
 
@@ -407,7 +422,7 @@ I have created a representative backlog based on the refurbishment and preparati
 | PB07 | Install required applications and updates | High | Software requirements are met. |
 | PB08 | Test monitors, keyboards, mice and cables | High | Equipment and accessories function correctly. |
 | PB09 | Run required stress tests | High | Potential hardware issues are identified. |
-| PB10 | Complete independent quality control | High | Another technician verifies the refurbishment. |
+| PB10 | Complete quality control (by a different person from the refurbisher) | High | Another person verifies the refurbishment. |
 | PB11 | Prepare equipment and accessories for collection | Medium | The correct equipment and cables are packed. |
 | PB12 | Update inventory and asset records | Medium | Equipment can be tracked appropriately. |
 | PB13 | Follow data security procedures for retired devices | High | Sensitive information is protected. |
@@ -417,7 +432,7 @@ I have created a representative backlog based on the refurbishment and preparati
 
 High-priority items directly affect equipment functionality, customer requirements, data protection or the readiness of equipment for release.
 
-Hardware testing and independent quality control are important because a fault may only become apparent when a device is tested. Confirming customer specifications is essential because the equipment must meet the requested requirements.
+Hardware testing and quality control are important because a fault may only become apparent when a device is tested. Confirming customer specifications is essential because the equipment must meet the requested requirements.
 
 Inventory updates and learning reports support traceability and professional development. They remain important even when the immediate focus is on preparing an order.
 
@@ -427,9 +442,9 @@ Backlog items PB03 to PB05 in practice: cleaning, inspecting internals and check
 
 <table>
   <tr>
-    <td align="center"><img src="images/pc-internals.jpeg" width="260"><br><sub><b>Figure 8.</b> PB03/PB04: inspecting the inside of a PC for dust and faults.</sub></td>
-    <td align="center"><img src="images/ram-check-winpe.jpeg" width="260"><br><sub><b>Figure 9.</b> PB05: checking RAM against the order.</sub></td>
-    <td align="center"><img src="images/handling-storage-drives.jpeg" width="260"><br><sub><b>Figure 10.</b> PB05/PB13: handling storage drives.</sub></td>
+    <td align="center"><img src="evidence/WhatsApp%20Image%202026-10-29%20at%2018.41.04.jpeg" width="260"><br><sub><b>Figure 8.</b> PB03/PB04: inspecting the inside of a PC for dust and faults.</sub></td>
+    <td align="center"><img src="evidence/WhatsAp4.jpeg" width="260"><br><sub><b>Figure 9.</b> PB05: checking RAM against the order.</sub></td>
+    <td align="center"><img src="evidence/456.jpeg" width="260"><br><sub><b>Figure 10.</b> PB05/PB13: handling storage drives.</sub></td>
   </tr>
 </table>
 
@@ -437,9 +452,9 @@ Backlog items PB03 to PB05 in practice: cleaning, inspecting internals and check
 
 Creating the product backlog helped me understand the importance of prioritising work instead of approaching every task without a plan.
 
-My experience at JUST PCs has shown me that computer refurbishment involves several stages. A computer must be inspected, cleaned, tested, configured and checked before it is ready for a customer. If an earlier task is incomplete, it affects the later stages.
+My experience at JUST PCs has shown me that computer refurbishment involves several stages. A computer must be inspected, cleaned, tested, configured and checked before it is ready for a customer. Because I worked on every stage, I saw that if an earlier task is incomplete, it affects the later stages.
 
-I have also learned that priorities can change. When a customer needs equipment urgently, the team may need to organise work efficiently. However, urgent requests do not remove the need for technical testing or quality control.
+I have also learned that priorities can change. When a customer needs equipment urgently, the work needs to be organised efficiently. However, urgent requests do not remove the need for technical testing or quality control.
 
 The backlog helped me see how work can be divided into smaller tasks, making it easier to track progress, identify outstanding work and make sure important requirements are not overlooked.
 
@@ -455,7 +470,7 @@ I have created a representative sprint based on preparing a refurbished desktop 
 
 ## 5.2 Sprint goal
 
-> **Prepare a desktop computer that meets the customer's specifications, has a working operating system, passes the required tests and is ready for independent quality control.**
+> **Prepare a desktop computer that meets the customer's specifications, has a working operating system, passes the required tests and is ready for quality control.**
 
 ## 5.3 Sprint tasks
 
@@ -472,13 +487,13 @@ I have created a representative sprint based on preparing a refurbished desktop 
 | SB09 | Install required applications and check updates | High | Required software and updates are present. | Done |
 | SB10 | Run the required stress tests | High | Tests are completed and results reviewed. | Done |
 | SB11 | Prepare required accessories | Medium | Required cables and accessories are checked. | Done |
-| SB12 | Submit the computer for independent quality control | High | The next technician receives the computer for checking. | Done |
+| SB12 | Hand the computer to a different person for QC | High | The QC person receives the computer for checking. | Done |
 
 **Workflow:** `To Do → In Progress → Ready for QC → QC → Done`
 
 ## 5.4 Definition of done
 
-The computer is ready for independent quality control when:
+The computer is ready for quality control when:
 
 - The customer's specifications have been checked.
 - The physical condition has been inspected and graded.
@@ -489,7 +504,7 @@ The computer is ready for independent quality control when:
 - Identified problems have been resolved or reported.
 - Required accessories have been checked.
 
-Passing independent quality control and final release remain separate steps.
+Passing quality control and final release remain separate steps, and QC is done by someone other than the refurbisher.
 
 ## 5.5 Potential risks and responses
 
@@ -506,9 +521,9 @@ Passing independent quality control and final release remain separate steps.
 
 <table>
   <tr>
-    <td align="center"><img src="images/refurbishing-pc-workstation.jpeg" width="260"><br><sub><b>Figure 11.</b> SB03 to SB07: hands-on refurbishment at the workstation.</sub></td>
-    <td align="center"><img src="images/ram-check-winpe.jpeg" width="260"><br><sub><b>Figure 12.</b> SB05: RAM verified against the order.</sub></td>
-    <td align="center"><img src="images/windows-image-check.jpeg" width="260"><br><sub><b>Figure 13.</b> SB08/SB09: Windows running from the image, ready for checks.</sub></td>
+    <td align="center"><img src="evidence/231.jpeg" width="260"><br><sub><b>Figure 11.</b> SB03 to SB07: hands-on refurbishment at the workstation.</sub></td>
+    <td align="center"><img src="evidence/WhatsAp4.jpeg" width="260"><br><sub><b>Figure 12.</b> SB05: RAM verified against the order.</sub></td>
+    <td align="center"><img src="evidence/342.jpeg" width="260"><br><sub><b>Figure 13.</b> SB08/SB09: Windows running from the image, ready for checks.</sub></td>
   </tr>
 </table>
 
@@ -520,7 +535,7 @@ One of the most challenging parts of my training has been troubleshooting comput
 
 I have also experienced situations where customers want to buy equipment immediately. These taught me the importance of managing time while maintaining accuracy.
 
-This sprint plan shows how a structured workflow prevents missed steps, improves consistency and ensures the computer is properly prepared before independent quality control.
+This sprint plan shows how a structured workflow prevents missed steps, improves consistency and ensures the computer is properly prepared before it reaches quality control.
 
 ---
 
@@ -557,7 +572,7 @@ During my internship I document my weekly learning and submit reports to my mana
 - I tested keyboards to confirm every key works and mice to confirm every button works.
 - I inspected monitors for scratches, dead pixels, cloudy spots and other defects.
 - I learned to grade equipment as A, B or C by physical condition.
-- I learned to select equipment from the right shelf and pack it with the required cables.
+- I selected equipment from the right shelf and packed it with the required cables.
 
 **Challenges:** Identifying defects accurately and telling the difference between equipment in different conditions.
 
@@ -586,9 +601,9 @@ During my internship I document my weekly learning and submit reports to my mana
 
 <table>
   <tr>
-    <td align="center"><img src="images/refurbishing-pc-workstation.jpeg" width="240"><br><sub>Refurbishing at my workstation</sub></td>
-    <td align="center"><img src="images/pc-internals.jpeg" width="240"><br><sub>Inspecting the PC internals</sub></td>
-    <td align="center"><img src="images/ram-check-winpe.jpeg" width="240"><br><sub>Checking RAM modules</sub></td>
+    <td align="center"><img src="evidence/231.jpeg" width="240"><br><sub>Refurbishing at my workstation</sub></td>
+    <td align="center"><img src="evidence/WhatsApp%20Image%202026-10-29%20at%2018.41.04.jpeg" width="240"><br><sub>Inspecting the PC internals</sub></td>
+    <td align="center"><img src="evidence/WhatsAp4.jpeg" width="240"><br><sub>Checking RAM modules</sub></td>
   </tr>
 </table>
 
@@ -610,7 +625,7 @@ During my internship I document my weekly learning and submit reports to my mana
 **Evidence**
 
 <p align="center">
-  <img src="images/windows-image-check.jpeg" width="320"><br>
+  <img src="evidence/342.jpeg" width="320"><br>
   <sub>Checking a PC after it has booted into Windows from the image.</sub>
 </p>
 
@@ -619,15 +634,14 @@ During my internship I document my weekly learning and submit reports to my mana
 **Activities**
 
 - I applied the same refurbishment and testing procedures to laptops.
-- I learned to check that all required components and functions work.
-- I learned that the person who refurbishes a device does not perform its final quality control.
-- I learned what QC checks: ports, storage health, Windows image, applications, updates and activation.
+- I carried out quality control checks myself: ports, storage health, Windows image, applications, updates and activation.
+- I did QC on devices that someone else had refurbished, and my own refurbished devices were checked by a different person, because nobody QCs their own work.
 
 **Challenges:** The process has many checks, and small details are easy to overlook.
 
-**What I learned:** Quality control is an extra level of verification. A separate technician can catch something I missed.
+**What I learned:** Quality control is an extra level of verification. A separate person can catch something I missed, and when I do QC I am that safety net for a colleague's work.
 
-**Reflection:** This stage taught me accountability and the importance of following the full workflow.
+**Reflection:** Doing both refurbishment and QC taught me accountability and the importance of following the full workflow.
 
 ## 6.7 Ongoing learning: Customer service and urgent orders
 
@@ -663,15 +677,15 @@ During my internship I document my weekly learning and submit reports to my mana
 
 <table>
   <tr>
-    <td align="center"><img src="images/handling-storage-drives.jpeg" width="260"><br><sub>Handling storage drives</sub></td>
-    <td align="center"><img src="images/photo-lightbox-1.jpeg" width="260"><br><sub>Documenting equipment in a photo light box</sub></td>
-    <td align="center"><img src="images/photo-lightbox-2.jpeg" width="260"><br><sub>Recording equipment details on a laptop</sub></td>
+    <td align="center"><img src="evidence/456.jpeg" width="260"><br><sub>Handling storage drives</sub></td>
+    <td align="center"><img src="evidence/908.jpeg" width="260"><br><sub>Documenting equipment in a photo light box</sub></td>
+    <td align="center"><img src="evidence/287.jpeg" width="260"><br><sub>Recording equipment details on a laptop</sub></td>
   </tr>
 </table>
 
 ## 6.9 Overall reflection
 
-My internship at JUST PCs has helped me develop technical and professional skills. I have gained practical experience in hardware troubleshooting, PC and laptop refurbishment, Windows installation, ISO imaging, equipment testing and quality control.
+My internship at JUST PCs has helped me develop technical and professional skills. As an intern my role was to learn everything, so I worked in every part of the process: testing and grading, refurbishing PCs and laptops, Windows imaging, quality control, order packing and customer service.
 
 I have also learned that technical knowledge must be supported by patience, communication and attention to detail. Some hardware faults need considerable thought and testing before the cause is found. Customer-facing situations taught me to stay professional when people are frustrated or need help urgently.
 
@@ -685,7 +699,7 @@ I am more confident handling equipment, investigating faults and meeting custome
 
 My work-integrated learning placement at JUST PCs has given me valuable practical experience and a clearer understanding of how IT services operate in a professional environment.
 
-Through hardware refurbishment, troubleshooting, Windows imaging, equipment testing, customer service and quality control, I have learned to approach technical tasks more systematically and responsibly.
+Through hardware refurbishment, troubleshooting, Windows imaging, equipment testing, customer service and quality control, all of which I carried out myself, I have learned to approach technical tasks more systematically and responsibly.
 
 The portfolio artefacts helped me organise these experiences using team responsibilities, user requirements, prioritised work, task planning and reflection. They show not only what I have learned but also how I can use that learning to improve my future performance.
 
